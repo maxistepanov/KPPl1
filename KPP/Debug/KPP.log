@@ -1,0 +1,3 @@
+﻿  KPP.cpp
+c:\users\avalon\desktop\кпп\kpp\kpp\kpp.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KPP.vcxproj -> C:\Users\Avalon\Desktop\КПП\KPP\Debug\KPP.exe
